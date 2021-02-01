@@ -9,3 +9,11 @@ Functionalities:
 Technologies
  - NodeJS / ExpressJS
  - PostgreSQL
+
+Environment Variables to set in .env 
+ - PORT=3000
+ - DB_NAME (=blog-database)
+ - DB_HOST (=localhost)
+ - DB_USER (=postgres)
+ - DB_PASSWORD (=*****)
+ - DB_PORT (=5432 // port postgresql server is running on)
